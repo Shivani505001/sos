@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Esos" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="colorPrimary">#6200EE</item> <!-- Your primary color -->
+        <item name="colorPrimaryDark">#3700B3</item> <!-- Your dark primary color -->
+        <item name="colorAccent">#03DAC5</item> <!-- Your accent color -->
+    </style>
+</resources>

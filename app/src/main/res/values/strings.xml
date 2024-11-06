@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Esos</string>
+    <string name="activate_sos">Activate SOS</string>
+    <string name="add_contacts">Add Contacts</string>
+    <string name="emergency_message">Emergency message sent!</string>
+    <string name="contacts_saved">Contacts saved successfully!</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_phone">Enter Phone Number</string>
+    <string name="show_contacts">Show Contacts</string>
+    <string name="Enter_your_SOS_message">Enter your SOS message</string>
+</resources>
